@@ -28,3 +28,4 @@
 到 CloudWatch 里可以查看运行的日志
 
 **和 Cloudflare 不一样，使用 AWS 部署 gf2-daily-helper 是完全免费的，用量远远达不到免费额度的上限**
+
